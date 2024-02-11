@@ -62,5 +62,5 @@ function tbodyfeltoltes() {
     ki += "<td><span id='arany'></span>%</td></tr></table>";
     document.getElementById("tbody").innerHTML = ki;
 }
-// ?
+// Picit más
 tbodyfeltoltes();
